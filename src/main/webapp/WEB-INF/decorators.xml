@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<decorators defaultdir="/decorator">
+	<decorator name="main" page="decorator.jsp">
+		<pattern>*.do</pattern>
+	</decorator>
+	<!-- layout 제외 설정 -->
+	<excludes>
+	</excludes>
+</decorators>
